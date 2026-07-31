@@ -1,1 +1,1 @@
-# otp-email-template
+# html-otp-email-template
